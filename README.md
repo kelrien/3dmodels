@@ -1,4 +1,4 @@
-# Female Warrior with Lion's shield
+# The lioness
 
 The base mesh for the woman was created with the Manuel Bastioni Lab blender addon.
 
